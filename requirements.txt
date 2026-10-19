@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+nltk
+Pillow
+imageio
